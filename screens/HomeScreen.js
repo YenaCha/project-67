@@ -52,7 +52,7 @@ export default class HomeScreen extends Component {
               onPress ={this.teamB()}>
               <Text style={{ fontSize:20}}>Team B</Text>
             </TouchableOpacity>
-
+            <TouchableOpacity> <Text>hello</Text></TouchableOpacity>
           </View>
         </View>
       </View>
